@@ -6,7 +6,10 @@ import AccessTimeIcon from "@mui/icons-material/AccessTime";
 
 export const Card = (img) => {
   return (
-    <div class="lg:my-5 my-2  mx-2 lg:mx-10">
+    <div
+      class="lg:my-5 my-2 mx-0
+     lg:mx-6"
+    >
       <div class="max-w-sm w-11/12 mx-auto overflow-hidden bg-white  rounded-3xl shadow-lg ">
         <img class="object-cover w-full h-52" src={img.img} alt="NIKE AIR" />
 

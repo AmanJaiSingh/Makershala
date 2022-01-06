@@ -8,7 +8,7 @@ import img from "./imgs";
 
 export const Body = () => {
   return (
-    <div className="text-black w-screen  font-bold p-24">
+    <div className="text-black w-screen  font-bold md:px-24 px-10 py-12 md:py-24">
       <EmojiEventsIcon
         className="absolute rotate-12 top-80  md:right-96   text-orange-400"
         style={{ fontSize: 80 }}

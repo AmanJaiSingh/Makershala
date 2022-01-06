@@ -15,7 +15,7 @@ export const Footer = () => {
           ></path>
         </svg>
       </div>
-      <div className=" bg_1 pt-5 p-20 ">
+      <div className=" bg_1 pt-5 -mt-20 md:-mt-0 p-20 ">
         <div className="h-auto flex justify-around ">
           <div className="-mt-5 w-4/12  cursor-pointer t ">
             <a src="https://www.makershala.com/">
