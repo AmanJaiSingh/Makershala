@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Makershala/static/css/main.773c1901.css",
-    "main.js": "/Makershala/static/js/main.f761141a.js",
+    "main.css": "/Makershala/static/css/main.83301d62.css",
+    "main.js": "/Makershala/static/js/main.f6270233.js",
     "static/js/787.8b76f4f1.chunk.js": "/Makershala/static/js/787.8b76f4f1.chunk.js",
     "static/media/myAvatar_2.svg": "/Makershala/static/media/myAvatar_2.ae92ab2f144dccb1a2e5ada1bcf6ba51.svg",
     "static/media/myAvatar_3.svg": "/Makershala/static/media/myAvatar_3.185509fffcd59a9c94e8d88ecfabdb2c.svg",
     "static/media/myAvatar.svg": "/Makershala/static/media/myAvatar.43d8403765c250f4cab669c54823b118.svg",
     "index.html": "/Makershala/index.html",
-    "main.773c1901.css.map": "/Makershala/static/css/main.773c1901.css.map",
-    "main.f761141a.js.map": "/Makershala/static/js/main.f761141a.js.map",
+    "main.83301d62.css.map": "/Makershala/static/css/main.83301d62.css.map",
+    "main.f6270233.js.map": "/Makershala/static/js/main.f6270233.js.map",
     "787.8b76f4f1.chunk.js.map": "/Makershala/static/js/787.8b76f4f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.773c1901.css",
-    "static/js/main.f761141a.js"
+    "static/css/main.83301d62.css",
+    "static/js/main.f6270233.js"
   ]
 }
